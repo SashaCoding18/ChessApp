@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/lucam/Desktop/programmi/ServerScacchi/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\RelayServer.dir\\relay_server.cpp.obj -c C:\\Users\\lucam\\Desktop\\programmi\\ServerScacchi\\relay_server.cpp",
+  "file": "C:/Users/lucam/Desktop/programmi/ServerScacchi/relay_server.cpp",
+  "output": "CMakeFiles/RelayServer.dir/relay_server.cpp.obj"
+}
+]

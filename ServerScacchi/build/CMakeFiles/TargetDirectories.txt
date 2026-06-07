@@ -1,0 +1,3 @@
+C:/Users/lucam/Desktop/programmi/ServerScacchi/build/CMakeFiles/RelayServer.dir
+C:/Users/lucam/Desktop/programmi/ServerScacchi/build/CMakeFiles/edit_cache.dir
+C:/Users/lucam/Desktop/programmi/ServerScacchi/build/CMakeFiles/rebuild_cache.dir
