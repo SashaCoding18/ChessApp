@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/lucam/Desktop/programmi/Scacchi/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++23 -o CMakeFiles\\SfmlApp.dir\\main.cpp.obj -c C:\\Users\\lucam\\Desktop\\programmi\\Scacchi\\main.cpp",
+  "file": "C:/Users/lucam/Desktop/programmi/Scacchi/main.cpp",
+  "output": "CMakeFiles/SfmlApp.dir/main.cpp.obj"
+}
+]

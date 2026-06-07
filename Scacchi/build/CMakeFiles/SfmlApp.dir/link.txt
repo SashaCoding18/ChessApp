@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\SfmlApp.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\SfmlApp.dir/objects.a @CMakeFiles\SfmlApp.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\SfmlApp.dir/objects.a -Wl,--no-whole-archive -o SfmlApp.exe -Wl,--out-implib,libSfmlApp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SfmlApp.dir\linkLibs.rsp

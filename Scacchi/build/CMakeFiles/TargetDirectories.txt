@@ -1,0 +1,3 @@
+C:/Users/lucam/Desktop/programmi/Scacchi/build/CMakeFiles/SfmlApp.dir
+C:/Users/lucam/Desktop/programmi/Scacchi/build/CMakeFiles/edit_cache.dir
+C:/Users/lucam/Desktop/programmi/Scacchi/build/CMakeFiles/rebuild_cache.dir
